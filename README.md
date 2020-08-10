@@ -1,5 +1,6 @@
 # HackerRank
 
-![logo-hackerrank-where-s-weed-java-portable-network-graphics-png-favpng-8SwSkf98Kp34i5iqHzajRqwRS](https://user-images.githubusercontent.com/45563371/89823496-26b84d00-db84-11ea-90d8-cbc879a69b18.jpg)
+![93cab780-a88a-11e9-835d-909390578982](https://user-images.githubusercontent.com/45563371/89823621-5ebf9000-db84-11ea-8a9d-bd9f2c1fd406.png)
+
 
 
